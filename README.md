@@ -1,2 +1,2 @@
 # my_writing
-collect my writings , notes etc.
+主要用于收集保存我本人的随笔，写作创作等资料
